@@ -1,0 +1,26 @@
+{
+  "name": "m28serj/date",
+  "description": "A date library to help you work with dates",
+  "keywords": ["laravel","date","time","datetime"],
+  "authors": [
+	{
+	  "name": "Sergey Ivanov",
+	  "homepage": ""
+	}
+  ],
+  "license" : "MIT",
+  "require": {
+	"php": ">=5.3.0",
+	"nesbot/Carbon": "*",
+	"symfony/translation": "*"
+  },
+  "require-dev": {
+	"satooshi/php-coveralls": "*",
+	"phpunit/phpunit":"*"
+  },
+  "autoload": {
+	"psr-0": {
+	  "M28Serj\\Date": "src/"
+	}
+  }
+}
