@@ -44,7 +44,7 @@ return array(
 		'fmay'       => 'мая',
 		'fjune'      => 'июня',
 		'fjuly'      => 'июля',
-		'faugust'    => 'авгуса',
+		'faugust'    => 'августа',
 		'fseptember' => 'сентября',
 		'foctober'   => 'октября',
 		'fnovember'  => 'ноября',
